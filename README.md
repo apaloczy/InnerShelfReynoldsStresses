@@ -14,3 +14,6 @@ We describe the spatio-temporal variability and vertical structure of turbulent 
 
 ## Acknowledgments
 The authors gratefully acknowledge funding from the Office of Naval Research (ONR), grants N00014-15-1-2885 and N00014-15-1-2633. Input from two anonymous reviewers substantially improved the manuscript. Thanks to Stephen Monismith, Jack McSweeney, Johannes Becherer, Jim Lerczak and Anthony Kirincich for helpful discussions during the writing of this manuscript, and to Johanna Rosman for helpful discussions and assistance in implementing the Adaptive Filtering Method. We thank Pieter Smit and Tim Janssen of Sofar Technologies for providing the wave data, and Jim Thomson and Merrick Haller for providing the land-based meteorological data. Thanks also to Eric Terrill and the technical team at the Coastal Observing R&D Center at Scripps Institution of Oceanography for providing the marine meteorological observations (miniMET buoy). We also thank the Captain and crew of the R/V *Sally Ride*, Christian McDonald and Brett Pickering for successfully deploying and recovering the moorings used in this study.
+
+## Data availability statement
+Codes and reduced datasets required to reproduce the results are available at [https://github.com/apaloczy/InnerShelfReynoldsStresses](https://github.com/apaloczy/InnerShelfReynoldsStresses).
