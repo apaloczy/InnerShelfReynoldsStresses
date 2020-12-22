@@ -1,6 +1,6 @@
 # InnerShelfReynoldsStresses
 
-This repository contains codes and processed datasets for a manuscript entitled **"The large-scale vorticity balance of the Antarctic continental margin in a fine-resolution global simulation"**, by A. Palóczy, J. A. MacKinnon and A. F. Waterhouse, under review for the Journal of Physical Oceanography. This [Jupyter notebook](https://nbviewer.jupyter.org/github/apaloczy/InnerShelfReynoldsStresses/blob/master/index.ipynb) provides an overview of the contents.
+This repository contains codes and processed datasets for a manuscript entitled **"Subtidal to supertidal variability of Reynolds stresses in a mid-latitude stratified inner-shelf"**, by A. Palóczy, J. A. MacKinnon and A. F. Waterhouse, under review for the Journal of Physical Oceanography. This [Jupyter notebook](https://nbviewer.jupyter.org/github/apaloczy/InnerShelfReynoldsStresses/blob/master/index.ipynb) provides an overview of the contents.
 
 The directory **plot_figs/** contains the Python codes used to produce the figures in the manuscript (Figures 1-14). The codes depend on the data files in the **data_reproduce_figs/** directory. Some of these are too large to be included in this repository, but are available for download from the links listed on the accompanying README files. Please contact [André Palóczy](mailto:apaloczy@ucsd.edu) if you have issues downloading the files.
 
