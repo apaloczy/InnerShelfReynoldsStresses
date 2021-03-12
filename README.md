@@ -1,5 +1,7 @@
 # InnerShelfReynoldsStresses
 
+[![DOI](https://zenodo.org/badge/255769835.svg)](https://zenodo.org/badge/latestdoi/255769835)
+
 This repository contains codes and processed datasets for a manuscript entitled **"Subtidal to supertidal variability of Reynolds stresses in a mid-latitude stratified inner-shelf"**, by A. Palóczy, J. A. MacKinnon and A. F. Waterhouse, [published on the Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-20-0140.1/JPO-D-20-0140.1.xml). This [Jupyter notebook](https://nbviewer.jupyter.org/github/apaloczy/InnerShelfReynoldsStresses/blob/master/index.ipynb) provides an overview of the contents.
 
 The directory **plot_figs/** contains the Python codes used to produce the figures in the manuscript (Figures 1-14). The codes depend on the data files in the **data_reproduce_figs/** directory. Some of these are too large to be included in this repository, but are available for download from the links listed on the accompanying README files. Please contact [André Palóczy](mailto:apaloczy@ucsd.edu) if you have issues downloading the files.
@@ -16,4 +18,4 @@ We describe the spatio-temporal variability and vertical structure of turbulent 
 The authors gratefully acknowledge funding from the Office of Naval Research (ONR), grants grants N00014-15-1-2885, N00014-15-1-2633 and N00014-5-1-2631. Input from two anonymous reviewers substantially improved the manuscript. Thanks to Stephen Monismith, Jack McSweeney, Johannes Becherer, Jim Lerczak and Anthony Kirincich for helpful discussions during the writing of this manuscript, and to Johanna Rosman for helpful discussions and assistance in implementing the Adaptive Filtering Method. We thank Pieter Smit and Tim Janssen of Sofar Technologies for providing the wave data, and Jim Thomson and Merrick Haller for providing the land-based meteorological data. Thanks also to Eric Terrill and the technical team at the Coastal Observing R&D Center at Scripps Institution of Oceanography for providing the marine meteorological observations (miniMET buoy). We also thank the Captain and crew of the R/V *Sally Ride*, Christian McDonald and Brett Pickering for successfully deploying and recovering the moorings used in this study.
 
 ## Data availability statement
-Codes and reduced datasets required to reproduce the results are available at [https://github.com/apaloczy/InnerShelfReynoldsStresses](https://github.com/apaloczy/InnerShelfReynoldsStresses).
+Codes and reduced datasets required to reproduce the results are available at [https://github.com/apaloczy/InnerShelfReynoldsStresses](https://github.com/apaloczy/InnerShelfReynoldsStresses), saved under DOI [10.5281/zenodo.4601716](http://doi.org/10.5281/zenodo.4601716).
